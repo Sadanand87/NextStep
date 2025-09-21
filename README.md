@@ -1,4 +1,4 @@
-# ✅ NextStep – Advanced To-Do List App
+# ✅ NextStep To-Do List App
 
 NextStep is a **modern and intuitive task management app** built with **React.js**.  
 It helps you organize tasks into categories, track daily progress, and manage your workflow effectively.  
