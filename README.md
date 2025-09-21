@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# ✅ NextStep – Advanced To-Do List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NextStep is a **modern and intuitive task management app** built with **React.js**.  
+It helps you organize tasks into categories, track daily progress, and manage your workflow effectively.  
 
-## Available Scripts
+🔗 **GitHub Repo:** [NextStep](https://github.com/Sadanand87/NextStep.git)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📌 **Task Management**
+  - Add, edit, and delete tasks
+  - Mark tasks as completed or pending
+  - Star important tasks
+  - Track overdue tasks
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🗂️ **Category Support**
+  - Predefined categories (Work, Personal, Health)
+  - Create custom categories
+  - Filter tasks by category
 
-### `npm test`
+- 📊 **Progress Tracking**
+  - View today’s progress in percentage
+  - Completed vs pending task count
+  - Analytics for overall performance
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🔎 **Smart Filtering & Sorting**
+  - Filter by status: All, Pending, Completed, Starred, Overdue
+  - Sort by Created, Due Date, etc.
+  - Search tasks quickly
 
-### `npm run build`
+- 📤 **Import/Export**
+  - Export tasks as JSON
+  - Import tasks to restore your data
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:** React.js, React Hooks
+- **Styling:** CSS / Tailwind (if added later)
+- **State Management:** React useState & Context (or Redux if expanded)
+- **Icons & UI:** Lucide-react / Custom UI Components
 
-### `npm run eject`
+---
+📂 Project Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="571" height="276" alt="image" src="https://github.com/user-attachments/assets/2fc66323-e977-4d25-a53a-ccc788cea471" />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📸 Screenshot
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Dashboard (All Tasks View)
+<img width="1876" height="907" alt="image" src="https://github.com/user-attachments/assets/93fe1769-3ec4-4f7e-a2eb-f28bb02d9ed4" />
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ⚙️ Installation & Setup
 
-### Code Splitting
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sadanand87/NextStep.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+2. Navigate into the project folder:
+   ```bash
+   cd NextStep
+   
+3.Install dependencies:
 
-### Analyzing the Bundle Size
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+4. Start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+npm start
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+5. Open in browser:
 
-### Deployment
+http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+📊 Analytics Feature
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Track productivity insights
+
+View task completion history
+
+Identify overdue patterns
+
+
+📦 Future Improvements
+
+🔔 Notifications & reminders
+
+📅 Calendar view integration
+
+🌙 Dark mode support
+
+☁️ Cloud sync with backend (Node.js + MongoDB)
+
+📱 Mobile-friendly responsive design
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
